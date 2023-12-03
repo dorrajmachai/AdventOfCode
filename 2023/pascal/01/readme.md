@@ -8,3 +8,6 @@ We're using Pascal for these because I think it's kinda cool, so we'll have to t
 
 ## Scratchpad
 Below are my varied though processes. I don't often do AoC, so be prepared for the mess about to ensue. Sorry in advance.
+
+## Test
+Just testing something.
